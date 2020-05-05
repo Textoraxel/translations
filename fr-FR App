@@ -17,133 +17,133 @@
 // General - App
 
 "WeatherLine" = "Weather Line";
-"Settings" = "Settings";
-"Done" = "Done";
-"Cancel" = "Cancel";
+"Settings" = "Paramètres";
+"Done" = "Fait";
+"Cancel" = "Annuler";
 "On" = "On";
 "Off" = "Off";
 "–" = "–";
-"None" = "None";
-"Reset" = "Reset";
-"Skip" = "Skip";
-"By" = "By";
-"Of" = "Of"; // as in 1 of 3 pages
+"None" = "Rien";
+"Reset" = "Réinitialiser";
+"Skip" = "Passer";
+"By" = "Par";
+"Of" = "Sur"; // as in 1 of 3 pages
 
-"Report a Bug" = "Report a Bug";
-"Report a Data Problem" = "Report a Data Problem";
-"Request a Feature" = "Request a Feature";
-"Ask a Question" = "Ask a Question";
-"Cancel" = "Cancel";
+"Report a Bug" = "Signaler un bug";
+"Report a Data Problem" = "Signaler un problème de donnée";
+"Request a Feature" = "Demander une fonctionnalité";
+"Ask a Question" = "Poser une question";
+"Cancel" = "Annuler";
 
-"Rename" = "Rename";
-"Continue" = "Continue";
-"Never" = "Never";
-"Status" = "Status";
-"Manage" = "Manage";
+"Rename" = "Renommer";
+"Continue" = "Continuer";
+"Never" = "Jamais";
+"Status" = "Etat";
+"Manage" = "Arranger";
 "Type" = "Type"; // as in type of something (noun), not action to type (verb)
-"Expires" = "Expires";
-"RestorePurchases" = "Restore Purchases";
-"Upgrade To" = "Upgrade To";
+"Expires" = "Expiré";
+"RestorePurchases" = "Restaurer l'achat";
+"Upgrade To" = "Améliorer en";
 
-"What's New in Weather Line" = "What's New\nin Weather Line";
-"What's New" = "What's New";
+"What's New in Weather Line" = "Quoi de neuf \ndans Weather Line";
+"What's New" = "Quoi de neuf";
 
 // General - Time-based
 
-"Hours" = "Hours";
-"Hour" = "Hour";
-"Day" = "Day";
-"Days" = "Days";
-"Week" = "Week";
-"Weeks" = "Weeks";
-"Month" = "Month";
-"Months" = "Months";
+"Hours" = "Heures";
+"Hour" = "Heure";
+"Day" = "Jour";
+"Days" = "Jours";
+"Week" = "Semaine";
+"Weeks" = "Semaines";
+"Month" = "Mois";
+"Months" = "Mois";
 
 "Hourly" = "Hourly";
 "Daily" = "Daily";
 
-"AddMyLocation" = "Add My Location";
+"AddMyLocation" = "Ajouter ma position";
 
 // Toasts - Forecast Refreshing
 
-"Updating" = "Updating...";
-"LastUpdated" = "Last updated";
-"Offline" = "Offline";
-"Unknown" = "Unknown";
+"Updating" = "Mise à jour";
+"LastUpdated" = "Dernière mise à jour";
+"Offline" = "Déconnecté";
+"Unknown" = "Inconnu";
 
 // Settings
 
-"UpgradeToSuperchargeTitle" = "Upgrade to Supercharge";
-"EmptyLocationList-Header" = "No Locations";
-"EmptyLocationList-Message" = "Use the top menu to add a location";
-"AddANewLocation" = "Add a new location";
-"DeleteALocation" = "Delete an existing location to add a new one";
-"ManageLocationsTitle" = "Locations";
+"UpgradeToSuperchargeTitle" = "Améliorer en Supercharge";
+"EmptyLocationList-Header" = "Pas de lieux";
+"EmptyLocationList-Message" = "Utilisez le menu du haut pour ajouter un lieux";
+"AddANewLocation" = "Ajouter un nouveau lieu";
+"DeleteALocation" = "Supprimez un lieu pour en ajouter un autre";
+"ManageLocationsTitle" = "Lieux";
 "WidgetTitle" = "Widget";
-"LaunchMode" = "Launch Style";
-"ManageAdsTitle" = "Ads";
-"ManageAccountTitle" = "Subscription";
+"LaunchMode" = "Style au lancement";
+"ManageAdsTitle" = "Pubs";
+"ManageAccountTitle" = "Abonnement";
 "ManageThemeTitle" = "Theme";
-"AppIconTitle" = "App Icon";
-"WeatherData" = "Weather Data";
-"WeatherDataTitle" = "Data Source";
+"AppIconTitle" = "Icone app";
+"WeatherData" = "Données météo";
+"WeatherDataTitle" = "Sources données";
 "ManageRadarTitle" = "Radar";
-"MoonPhasesTitle" = "Moon Phases";
-"ManageUnitsTitle" = "Units";
-"ManageTemperatureTitle" = "Temperature Type";
-"Legend" = "Legend";
-"ContactUs" = "Contact Us";
-"RateWeatherLine" = "Rate App";
-"ShareApp" = "Share App";
-"FollowWeatherLine" = "Follow Us";
-"ManageSubscription" = "Manage Subscription";
-"Acknowledgments" = "Acknowledgments";
-"ShowWalkthrough" = "Show App Walkthrough";
+"MoonPhasesTitle" = "Phases de la lune";
+"ManageUnitsTitle" = "Unités";
+"ManageTemperatureTitle" = "Type de température";
+"Legend" = "Legendes";
+"ContactUs" = "Nous contacter";
+"RateWeatherLine" = "Noter l'app";
+"ShareApp" = "Partager l'app";
+"FollowWeatherLine" = "Suivez-nous";
+"ManageSubscription" = "Gérer l'abonnement";
+"Acknowledgments" = "Remerciements";
+"ShowWalkthrough" = "Voir l'introduction";
 
 // Settings section headers
 
-"Locations" = "Locations";
-"Appearance" = "Appearance";
-"Other" = "Other";
+"Locations" = "Lieux";
+"Appearance" = "Apparence";
+"Other" = "Autre";
 
 // Settings subpages
 
-"Open-Source Components" = "Open-Source Components";
+"Open-Source Components" = "Composants Open-Source";
 
-"LaunchModeHelpText" = "Fresh launches of the app will open to this screen.";
-"WidgetHelpText" = "Turn on to automatically match app's theme. Leave off to use standard translucent widget background. (SC) required for graph and themes.";
-"MoonPhaseHelpText" = "(SC) required for moon data.\n";
-"AnimatedRadarHelpText" = "(SC) required for animation.\n";
-"AdsHelpText" = "(SC) required to remove ads.\n";
-"ThemesHelpText" = "(SC) required for themes other than Light and Dark.\n";
-"GraphTemperatureHelpText" = "Choose which temperature to graph. The other will be displayed below the graph.\n";
-"BasicWeatherHeader" = "Basic";
-"BasicWeatherSubtitle" = "Standard NOAA 7-day forecast";
+"LaunchModeHelpText" = "Relancer l'application ouvrira sur cet écran.";
+"WidgetHelpText" = "Activer pour s'adapter au thème de l'app. Désactiver pour utiliser le fond translucide du widget. (SC) réquis pour les graphiques et thèmes";
+"MoonPhaseHelpText" = "(SC) réquis pour les données de la lune.\n";
+"AnimatedRadarHelpText" = "(SC) réquis pour les animations.\n";
+"AdsHelpText" = "(SC) réquis pour retirer les pubs.\n";
+"ThemesHelpText" = "(SC) Réquis pour les thèmes autres que clair et sombre.\n";
+"GraphTemperatureHelpText" = "Choisissez la température à représenter. L'autre sera affichée sous le graphique.\n";
+"BasicWeatherHeader" = "Basique";
+"BasicWeatherSubtitle" = "Standard NOAA prévision à 7 jours";
 "SuperForecastHeader" = "Super Forecast";
-"SuperForecastSubtitle" = "Best of everything 10-day forecast";
-"Forecasting" = "Forecasting";
-"SuperForecastDetailHeader" = "Welcome to the future of weather";
-"SuperForecastDetailText" = "The world’s #1 provider of each forecast type – combined into one view. You get the best of everything.";
-"DarkSkyRadarAvailability" = "Dark Sky short-term precipitation available in US, UK, and Ireland. Animated radar available in US, Canada, UK, Europe, Australia, and Japan.\n";
-"UseDarkSky" = "Use Dark Sky for Forecasting";
+"SuperForecastSubtitle" = "Les meilleures prévisions à 10 jours";
+"Forecasting" = "Prévision";
+"SuperForecastDetailHeader" = "Bienvenue dans la météo du futur";
+"SuperForecastDetailText" = "Le premier fournisseur mondial de chaque type de prévision - combiné en une seule vue. Ne gardez que le meilleur.";
+"DarkSkyRadarAvailability" = "Les prévisions à court terme Dark Sky ne sont disponibles qu'aux États-Unis, au Royaume-Uni et en Irelande. Le radar animé est disponible aux États-Unis, au Canada, au Royaume-Uni, en Europe, en Australie et au Japon.\n";
+"UseDarkSky" = "Utiliser Dark Sky pour les prévisions";
 
 "Standard" = "Standard";
 "Muted Standard" = "Muted Standard";
 "Satellite" = "Satellite";
-"Hybrid" = "Hybrid";
-"Automatically When Loaded" = "Automatically When Loaded";
-"When Tapped" = "When Tapped";
-"Automatically" = "Automatically";
-"All, Hourly" = "All, Hourly";
-"All, Daily" = "All, Daily";
-"Top, Hourly" = "Top, Hourly";
-"Top, Daily" = "Top, Daily";
-"All Locations, Hourly Graph" = "All Locations, Hourly Graph";
-"All Locations, Daily Graph" = "All Locations, Daily Graph";
-"Top Location, Hourly Graph" = "Top Location, Hourly Graph";
-"Top Location, Daily Graph" = "Top Location, Daily Graph";
+"Hybrid" = "Hybride";
+"Automatically When Loaded" = "Automatiquement quand chargé";
+"When Tapped" = "Au toucher";
+"Automatically" = "Automatiquement";
+"All, Hourly" = "Tout, Chaque heure";
+"All, Daily" = "Tout, Chaque jour";
+"Top, Hourly" = "Principal, Chaque heure";
+"Top, Daily" = "Principal, Chaque jour";
+"All Locations, Hourly Graph" = "Tous les lieux, vue par heure";
+"All Locations, Daily Graph" = "Tous les lieux, vue par jour";
+"Top Location, Hourly Graph" = "Lieu principal, vue par heure";
+"Top Location, Daily Graph" = "Lieu principal, vue par jour";
 
-"Auto Match to Theme" = "Auto Match to Theme";
+"Auto Match to Theme" = "Adapter au thème";
 "Update Theme Settings" = "Update Theme Settings";
 "Open Theme Settings" = "Open Theme Settings";
 
